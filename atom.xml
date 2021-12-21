@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Road to coding peak</title>
+  <title>这是标题</title>
   
-  <subtitle>为者常成，行者常至</subtitle>
+  <subtitle>为者常成，行者常至，这是副标题</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
