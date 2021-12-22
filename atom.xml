@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-12-22T03:28:59.184Z</updated>
+  <updated>2021-12-22T08:13:07.179Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>马拉松！</title>
+    <link href="http://example.com/2021/12/22/%E9%A9%AC%E6%8B%89%E6%9D%BE%EF%BC%81/"/>
+    <id>http://example.com/2021/12/22/%E9%A9%AC%E6%8B%89%E6%9D%BE%EF%BC%81/</id>
+    <published>2021-12-22T08:00:26.000Z</published>
+    <updated>2021-12-22T08:13:07.179Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天马拉松，9KM全校第16名，阿伟15名。有五十块奖金，还不错。<br><img src="https://gitee.com/r2peak/picture/raw/master/2021-12-22/1640160251585-image.png"></p><p><img src="https://gitee.com/r2peak/picture/raw/master/2021-12-22/1640160555609-image.png"></p><p>38分钟，跑5公里的时候肚子疼得不行，还是坚持下来了，瑞斯拜一波自己。</p><p><img src="https://gitee.com/r2peak/picture/raw/master/2021-12-22/1640160403992-image.png"></p><p>奖牌真好看。</p><p><img src="https://gitee.com/r2peak/picture/raw/master/2021-12-22/1640160459936-image.png"></p><p><img src="https://gitee.com/r2peak/picture/raw/master/2021-12-22/1640160475039-image.png"></p><p>这是路线图：</p><p><img src="https://gitee.com/r2peak/picture/raw/master/2021-12-22/1640160527207-image.png"></p><p>进了七瓶水，送小邹及其小伙伴们共四瓶，阿袁一瓶，回来又跟阿伟，阿超各自要了一瓶，爽歪歪。</p><p><img src="https://gitee.com/r2peak/picture/raw/master/2021-12-22/1640160578062-image.png"></p><p>这几天好好学计网，明天开始嵌入式课设，加油干！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天马拉松，9KM全校第16名，阿伟15名。有五十块奖金，还不错。&lt;br&gt;&lt;img src=&quot;https://gitee.com/r2peak/picture/raw/master/2021-12-22/1640160251585-image.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i</summary>
+      
+    
+    
+    
+    <category term="日常" scheme="http://example.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="随感" scheme="http://example.com/tags/%E9%9A%8F%E6%84%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>计算机网络-1概述</title>
